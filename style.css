@@ -30,7 +30,7 @@ section1
     .order{
       padding-right: 0px;
         padding-left:120px ;
-        padding-top: 10%;
+        padding-top: 5%;
         padding-bottom: 0px;
         font-size: 60px;
         font-weight: 700;
@@ -52,7 +52,7 @@ section1
     
       
       padding-left: 364px;
-        padding-top: 2%;
+        padding-top: 10%;
         padding-bottom: 4px;
     }
   
@@ -150,7 +150,10 @@ section1
     box-shadow: 10px 10px 20px black;
     background-image: linear-gradient(to top,#FCF8E8,#D4E2D4,#34626C);
     }
-    .fancy {
-        background-clip: linear-gradient(45deg, #f3ec78, #af4261);
-        
-      }
+    footer {
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      height: 150px;
+      background-color: #435560;
+  }
