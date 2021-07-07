@@ -8,13 +8,43 @@ h3{
         font-size: 15px;
     }
 
-    
+    span{
+
+      color: #fea157;
+    }
 section1
     {
       display: flex; 
       
       
     }
+    section{
+      display: flex;
+      background-image: url(../project01/Frame\ 58.jpg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+
+
+    }
+
+    .order{
+      padding-right: 0px;
+        padding-left:120px ;
+        padding-top: 10%;
+        padding-bottom: 0px;
+        font-size: 60px;
+        font-weight: 700;
+        color: #575757;
+    }
+
+    .imagee{
+    
+      
+      padding-left: 364px;
+        padding-top: 10%;
+        padding-bottom: 0px;
+    }
+  
     
     .img {
         margin-left:10px;
