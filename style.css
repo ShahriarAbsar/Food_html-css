@@ -7,6 +7,8 @@ h1{
 h3{
         font-size: 15px;
     }
+
+    
 section1
     {
       display: flex; 
@@ -14,9 +16,20 @@ section1
       
     }
     
-    img {
+    .img {
         margin-left:10px;
-        border: 2px solid rgb(10, 10, 10);
+        
+      }
+      .abt{
+
+        width: 50%;
+        text-align: left;
+        padding-left: 349px;
+        padding-top: 0px;
+        padding-bottom: 452px;
+      
+
+
       }
       .column {
         float: left;
@@ -24,28 +37,24 @@ section1
         padding: 5px;
       }
 
-      .center {
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-        
-      }
-      .center2 {
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
-      .center3 {
-        
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        width: 30%;
-      }
-
       
+
+  .aboutMe{
+      display: flex;
+      height: 700px;
+      align-items: center;
+      justify-content: center;
+      background-image: url(../project01/Frame\ 57.jpg);
+      background-repeat: no-repeat;
+      background-size: 100%;
+  }
+      
+  
+
+
+  
+      
+
 .column {
     float: left;
     width: 33.33%;
